@@ -8,9 +8,11 @@
 
 Sou Hilquias Santana, tenho 23 anos. Estou quase me formando em Sistemas para Internet pelo IFAC e, atualmente, estou no segundo período do curso técnico em Administração, também no IFAC. Adoro tecnologia, especialmente sistemas embarcados. Nos meus momentos livres, amo jogar online e assistir animes.
 
+
+
 ---
 
-### 📊 Minhas Estatísticas no GitHub
+### 📊 Minhas Estatísticas e Consistência
 
 <div align="center">
   <table>
@@ -27,6 +29,22 @@ Sou Hilquias Santana, tenho 23 anos. Estou quase me formando em Sistemas para In
       </td>
     </tr>
   </table>
+  <a href="https://github-readme-streak-stats.herokuapp.com">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Hilquias's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Hilquias01&theme=dark&hide_border=true" />
+  </a>
+</div>
+
+---
+
+### 🚀 Projetos em Destaque
+
+<div align="center">
+  <a href="https://github.com/Hilquias01/pagina-animes">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hilquias01&repo=pagina_animes&theme=dark" />
+  </a>
+  <a href="https://github.com/Hilquias01/pedraqui">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hilquias01&repo=pedeaqui&theme=dark" />
+  </a>
 </div>
 
 ---
