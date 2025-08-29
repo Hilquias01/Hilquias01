@@ -71,7 +71,11 @@ Sou Hilquias Santana, tenho 23 anos. Estou quase me formando em Sistemas para In
 
 <div align="center">
   <h3>🐍 Minha Cobrinha de Contribuições 🐍</h3>
-  <img src="https://github.com/Hilquias01/Hilquias01/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hilquias01/Hilquias01/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hilquias01/Hilquias01/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Hilquias01/Hilquias01/output/github-contribution-grid-snake.svg">
+  </picture>
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=Hilquias01&label=Visualiza%C3%A7%C3%B5es+no+Perfil&color=00BFFF&style=flat" alt="contador de visitas" />
 </div>
