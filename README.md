@@ -22,11 +22,18 @@ Tecnologias que já utilizei
 Atualmente estudando
 <br>
 <p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/Impress%C3%A3o%203D-FF0000?style=for-the-badge&logo=3d-printing&logoColor=white" />
 </p>
 
 Como me encontrar:
-LinkedIn: Hilquias Santana
-
-Instagram: hilquias0
+<br>
+<p>
+<a href="https://www.linkedin.com/in/hilquiassantana">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/hilquias0">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+</p>
