@@ -30,7 +30,7 @@ Sou Hilquias Santana, tenho 23 anos. Estou quase me formando em Sistemas para In
     </tr>
   </table>
   <a href="https://github-readme-streak-stats.herokuapp.com">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Hilquias's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Hilquias01&theme=dark&hide_border=true" />
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Hilquias's streak" src="https://github-readme-streak-stats.herokuapp.com?user=Hilquias01&theme=dracula&locale=pt_BR&short_numbers=true](https://github-readme-streak-stats.herokuapp.com?user=Hilquias01&theme=dracula&locale=pt_BR&short_numbers=true)" />
   </a>
 </div>
 
