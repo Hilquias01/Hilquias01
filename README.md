@@ -3,7 +3,10 @@ Sou Hilquias Santana, tenho 23 anos. Estou quase me formando em Sistemas para In
 
 <div align="center">
 
-
+<div align="center">
+  [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Hilquias01&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Hilquias01&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 </div>
 
 Tecnologias que já utilizei
